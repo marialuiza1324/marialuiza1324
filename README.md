@@ -2,10 +2,9 @@
 ### Olá! Eu sou a Maria Luiza 🤗
 
 <br>
-
 <p align="left">
-<a href="https://linkedin.com/in/maria luiza nery pinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria luiza nery pinto" height="30" width="40" /></a>
-<a href="https://instagram.com/marialuh_nery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marialuh_nery" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/maria luiza nery pinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria luiza nery pinto" height="30" width="40" /></a>
+    <a href="https://instagram.com/marialuh_nery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marialuh_nery" height="30" width="40" /></a>
 </p>
 
 ## Tecnologias aprendidas
@@ -21,4 +20,11 @@
     </p>                                                       
 </div>
 
-### Estudante de Engenharia de Software - 3º semestre
+<div style="width: 200px;">
+    <a href="https://github.com/marialuiza1324/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=marialuiza1324&show_icons=true&theme=transparent&icon_color=8882fd&title_color=8882fd&text_color=d5d3ff" alt="Top Langs" />
+    </a>
+</div>
+
+
+### Estudante de Engenharia de Software - 5º semestre
