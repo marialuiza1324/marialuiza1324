@@ -29,10 +29,3 @@
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
 </div>
-<br><br>
-
-<div style="width: 200px;">
-    <a href="https://github.com/marialuiza1324/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=marialuiza1324&show=reviews&show_icons=true&theme=radical" alt="Top Langs" />
-    </a>
-</div>
