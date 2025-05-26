@@ -22,10 +22,6 @@
 ## Trabalho com
 <div style="display: inline_block">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/Ruby" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/></a>
-    <a href="https://www.w3schools.com/postgresql/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30" /></a>                                                     
-</div>
-
-## Estou aprendendo
-<div style="display: inline_block">
+    <a href="https://www.w3schools.com/postgresql/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30" /></a>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
